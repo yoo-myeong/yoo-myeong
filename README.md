@@ -1,5 +1,7 @@
-I'm interested in scalable software and clean architecture.
+<div align="center">
 
-I've been developing with NodeJS(JS/TS), AWS, MySQL, Redis, Kafka.
+Hi. I'm Back End Developer Mocha Yoo.
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoo-myeong&layout=compact)
 
-I value communication and sharing.
+</div>
